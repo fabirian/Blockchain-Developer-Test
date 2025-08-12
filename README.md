@@ -32,31 +32,15 @@ Las transacciones disparan acciones Redux que actualizan el estado `transaction`
 
 ## Instrucciones para clonar y ejecutar
 
-1. Clonar el repositorio:
+Clonar el repositorio:
 
 ```bash
 git clone https://github.com/fabirian/Blockchain-Developer-Test.git
-Acceder a la carpeta del proyecto:
 
-bash
-Copy
-Edit
 cd Blockchain-Developer-Test
-Instalar dependencias:
 
-bash
-Copy
-Edit
-npm install
-Ejecutar la aplicación en modo desarrollo:
-
-bash
-Copy
-Edit
 npm start
-Abrir el navegador y acceder a:
 
-arduino
-Copy
-Edit
 http://localhost:3000
+
+
