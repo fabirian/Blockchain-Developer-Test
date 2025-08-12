@@ -1,6 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import { useSelector } from 'react-redux'
+import WalletConnector from './WalletConnector'
 
 const Navbar = () => {
     const state = useSelector(state => state.handleCart)
@@ -34,6 +35,7 @@ const Navbar = () => {
                     </div>
                 </div>
 
+                <WalletConnector />
 
             </div>
         </nav>
