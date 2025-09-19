@@ -34,16 +34,16 @@ Las transacciones disparan acciones Redux que actualizan el estado `transaction`
 
 Clonar el repositorio:
 
-```bash
+```
 git clone https://github.com/fabirian/Blockchain-Developer-Test.git
 ```
-```bash
+```
 cd Blockchain-Developer-Test
 ```
-```bash
+```
 npm start
 ```
-```bash
+```
 http://localhost:3000
 
 
